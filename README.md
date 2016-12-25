@@ -38,13 +38,14 @@ _You should check and update your pip_:
 pip3 install --upgrade pip
 ~~~~
 
-### How to use this repository 
+### INFORMATION ABOUT THE REPOSITORY 
 **The repository includes:**
 * A python file that provides converting audio files to .wav audio format.
 * A python file for configurations such as the path of training and test datasets, genre names, number of songs and etc.
 * A python file which includes all the necessary functions for classification process.
 * A jupyter notebook file that do signal processing and feature extraction from songs and generates a .csv file.
 * Several jupyter notebooks for classification process with different numbers of genres.
+* A bonus notebook which includes useful information about signal processing !!
 
 **To use the repository:**
 * First, run create_dataset_as_csv file and generate a text based dataset as a csv file.
