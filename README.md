@@ -4,14 +4,24 @@
 * Python 3.5.2
 * Jupyter Notebook (with IPython kernel)
 * Python packages:
-	- IPython
-	- Numpy
-	- Scipy
-	- Pandas
-	- Scikit-learn
-	- Librosa
-	- Matplotlib
-##### To install packages via pip install:
+	* IPython
+	* Numpy
+	* Scipy
+	* Pandas
+	* Scikit-learn
+	* Librosa
+	* Matplotlib
+	
+**To install packages via pip install:**
+~~~~
+sudo pip3 install ipython scipy numpy pandas scikit-learn librosa matplotlib 
+~~~~
+_If you haven't installed pip, you can use the codes below in your terminal_:
+~~~~
+sudo apt-get update
+sudo apt install python3-pip
+~~~~
+
 ### How to use this repository 
 **The repository includes:**
 * A python file that provides converting audio files to .wav audio format.
