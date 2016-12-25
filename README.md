@@ -2,7 +2,6 @@
 
 #### To use this work on your researches or projects you need:
 * Python 3.5.2
-* Jupyter Notebook (with IPython kernel)
 * Python packages:
 	* IPython
 	* Numpy
@@ -11,15 +10,31 @@
 	* Scikit-learn
 	* Librosa
 	* Matplotlib
+* Jupyter Notebook (with IPython kernel)
 	
+**To install Python:**
+_First, check if you already have it installed or not.
+~~~~
+python3 --version
+~~~~
+_If you don't have python 3 in your computer you can use the code below_:
+~~~~
+sudo apt-get update
+sudo apt-get install python3
+~~~~
+
 **To install packages via pip install:**
 ~~~~
-sudo pip3 install ipython scipy numpy pandas scikit-learn librosa matplotlib 
+sudo pip3 install ipython scipy numpy pandas scikit-learn librosa matplotlib jupyter
 ~~~~
 _If you haven't installed pip, you can use the codes below in your terminal_:
 ~~~~
 sudo apt-get update
 sudo apt install python3-pip
+~~~~
+_You should check and update your pip_:
+~~~~
+pip3 install --upgrade pip
 ~~~~
 
 ### How to use this repository 
