@@ -1,22 +1,22 @@
 ### MUSIC GENRE CLASSIFICATION WITH MACHINE LEARNING TECHNIQUES	
 
 #### To this work on your researches or projects you need:
-	* Python 3.5.2
-	* Jupyter Notebook (with IPython kernel)
-	* Python packages:
-		- IPython
-		- Numpy
-		- Scipy
-		- Pandas
-		- Scikit-learn
-		- Librosa
-		- Matplotlib 
+* Python 3.5.2
+* Jupyter Notebook (with IPython kernel)
+* Python packages:
+	- IPython
+	- Numpy
+	- Scipy
+	- Pandas
+	- Scikit-learn
+	- Librosa
+	- Matplotlib 
 ##### To install packages via pip install:
-``` sudo pip3 install```
-
 ### How to use this repository 
+``` sudo pip3 install
+```
 **The repository includes:**
-* A pythom file that provides converting audio files to .wav audio format.
+* A python file that provides converting audio files to .wav audio format.
 * A python file for configurations such as the path of training and test datasets, genre names, number of songs and etc.
 * A python file which includes all the necessary functions for classification process.
 * A jupyter notebook file that do signal processing and feature extraction from songs and generates a .csv file.
