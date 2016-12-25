@@ -63,6 +63,7 @@ pip3 install --upgrade pip
 
 * For now, use can only use the GTZAN dataset for training process.
 * Also, you can only use .au files while converting files into .wav.
+* For now, you are able to use the genres only which are used in notebooks.
 
 
 
