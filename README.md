@@ -55,7 +55,7 @@ pip3 install --upgrade pip
 
 **Wanna play with data or files ? Feel free !**
 * You can change the properties from config.py file as the way you wanted.
-* You can add more features or delete some features from being writed to dataset. The function _"extract_features"_ in functions.py
+* You can add more features or delete some features from faeture vector. The function _"extract_features"_ in functions.py
  extract features from songs and you can change the code with your own features.
 * You can use your test files
 
