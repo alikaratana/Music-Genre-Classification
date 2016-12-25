@@ -1,7 +1,7 @@
 ### MUSIC GENRE CLASSIFICATION WITH MACHINE LEARNING TECHNIQUES	
 
 #### To this work on your researches or projects you need:
-	* Python 3.5
+	* Python 3.5.2
 	* Jupyter Notebook (with IPython kernel)
 	* Python packages:
 		- IPython
@@ -11,6 +11,8 @@
 		- Scikit-learn
 		- Librosa
 		- Matplotlib 
+##### To install packages via pip install:
+``` sudo pip3 install```
 
 ### How to use this repository 
 **The repository includes:**
