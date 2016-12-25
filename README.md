@@ -1,6 +1,6 @@
 ### MUSIC GENRE CLASSIFICATION WITH MACHINE LEARNING TECHNIQUES	
 
-#### To this work on your researches or projects you need:
+#### To use this work on your researches or projects you need:
 * Python 3.5.2
 * Jupyter Notebook (with IPython kernel)
 * Python packages:
