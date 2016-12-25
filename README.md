@@ -13,7 +13,8 @@
 * Jupyter Notebook (with IPython kernel)
 	
 **To install Python:**
-_First, check if you already have it installed or not.
+
+_First, check if you already have it installed or not_.
 ~~~~
 python3 --version
 ~~~~
