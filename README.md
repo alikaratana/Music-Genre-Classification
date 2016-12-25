@@ -13,7 +13,6 @@
 	- Matplotlib
 ##### To install packages via pip install:
 ### How to use this repository 
-	- sudo pip3 install
 **The repository includes:**
 * A python file that provides converting audio files to .wav audio format.
 * A python file for configurations such as the path of training and test datasets, genre names, number of songs and etc.
