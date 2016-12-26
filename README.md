@@ -71,7 +71,7 @@ pip3 install --upgrade pip
 		- 22050 KHz
 		- 16-bit
 * Also, you can only use .au files while converting files into .wav.
-* For now, you are able to use the genres only which are used in notebooks.
+* For now, you are able to change the genres only from notebooks, not from config.py file.
 
 
 
