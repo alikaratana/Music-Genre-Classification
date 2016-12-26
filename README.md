@@ -10,6 +10,7 @@
 	* Scikit-learn
 	* Librosa
 	* Matplotlib
+	* Pydub
 * Jupyter Notebook (with IPython kernel)
 	
 **To install Python:**
@@ -26,7 +27,7 @@ sudo apt-get install python3
 
 **To install packages via pip install:**
 ~~~~
-sudo pip3 install ipython scipy numpy pandas scikit-learn librosa matplotlib jupyter
+sudo pip3 install ipython scipy numpy pandas scikit-learn librosa matplotlib jupyter pydub
 ~~~~
 _If you haven't installed pip, you can use the codes below in your terminal_:
 ~~~~
