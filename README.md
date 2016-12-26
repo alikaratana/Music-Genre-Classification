@@ -62,6 +62,13 @@ pip3 install --upgrade pip
 ### Note !!
 
 * For now, use can only use the GTZAN dataset for training process.
+	* To download GTZAN dataset use this link: http://marsyasweb.appspot.com/download/data_sets/ 
+	* About GTZAN : 
+	 	- 30 second audio clips of songs
+		- 1000 songs with .au format
+		- 10 genres ( 100 songs for each genre)
+		- 22050 KHz
+		- 16-bit
 * Also, you can only use .au files while converting files into .wav.
 * For now, you are able to use the genres only which are used in notebooks.
 
