@@ -46,6 +46,6 @@ pip3 install --upgrade pip
 * GenreRecognition.py file is for predicting the genres of test music files.
 * CreateThenTrain.py file runs CreateDataset.py and ModelTrain.py sequentially. 
 
-* Jupyter notebook files that give useful information and tutorials about signal analysis and music genre classification.
+* Jupyter Notebook files give useful information and tutorials about signal analysis and music genre classification.
 
 
